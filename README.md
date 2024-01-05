@@ -1,1 +1,1 @@
-### A simple Text-to-Binary Converter Web
+### WEB CHALLENGE #1 - Text-to-Binary
